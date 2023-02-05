@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\LAB\LAB\obj\Debug\net5.0\LAB.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LAB\LAB\obj\Debug\net5.0\LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LAB\LAB\obj\Debug\net5.0\LAB.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LAB\LAB\obj\Debug\net5.0\LAB.AssemblyInfo.cs
+C:\Users\HP\source\repos\LAB\LAB\obj\Debug\net5.0\LAB.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LAB\LAB\bin\Debug\net5.0\LAB.exe
+C:\Users\HP\source\repos\LAB\LAB\bin\Debug\net5.0\LAB.deps.json
+C:\Users\HP\source\repos\LAB\LAB\bin\Debug\net5.0\LAB.runtimeconfig.json
+C:\Users\HP\source\repos\LAB\LAB\bin\Debug\net5.0\LAB.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LAB\LAB\bin\Debug\net5.0\LAB.dll
+C:\Users\HP\source\repos\LAB\LAB\bin\Debug\net5.0\ref\LAB.dll
+C:\Users\HP\source\repos\LAB\LAB\bin\Debug\net5.0\LAB.pdb
+C:\Users\HP\source\repos\LAB\LAB\obj\Debug\net5.0\LAB.dll
+C:\Users\HP\source\repos\LAB\LAB\obj\Debug\net5.0\ref\LAB.dll
+C:\Users\HP\source\repos\LAB\LAB\obj\Debug\net5.0\LAB.pdb
+C:\Users\HP\source\repos\LAB\LAB\obj\Debug\net5.0\LAB.genruntimeconfig.cache
